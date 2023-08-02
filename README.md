@@ -58,7 +58,7 @@ details.
 
 ## License ##
 
-This project is in the worldwide [public domain](LICENSE).
+This project is in the worldwide. [public domain](LICENSE).
 
 This project is in the public domain within the United States, and
 copyright and related rights in the work worldwide are waived through
