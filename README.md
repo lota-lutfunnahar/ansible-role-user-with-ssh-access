@@ -15,7 +15,7 @@ appropriate for an Ansible role.
 
 None.
 
-## Role Variables ##
+## Role Variables ## 
 
 None.
 
